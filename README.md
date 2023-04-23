@@ -40,8 +40,8 @@
     <td><a href="https://hilarious-eclair-32f1e3.netlify.app" target="_blank">DEMO LINK</a><br></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/VasylZinchenko/nutrition-analysis/" target="_blank">Webpage</a></td>
-    <td><a href="https://github.com/VasylZinchenko/fruit-catalog" target="_blank">Webpage</a></td>
+    <td><a href="https://github.com/vasyl-zinchenko/nutrition-analysis/" target="_blank">Webpage</a></td>
+    <td><a href="https://github.com/vasyl-zinchenko/fruit-catalog" target="_blank">Webpage</a></td>
   </tr>
 
   <tr>
@@ -82,12 +82,12 @@
       - Firebase</td>
   </tr>
   <tr>
-    <td> <a href="https://vasylzinchenko.github.io/inventory/" target="_blank">DEMO LINK</a><br></td>
+    <td> <a href="https://vasyl-zinchenko.github.io/inventory/" target="_blank">DEMO LINK</a><br></td>
     <td><a href="https://vue-http-demo-c46ab.web.app/coaches/" target="_blank">DEMO LINK</a><br></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/VasylZinchenko/inventory/" target="_blank">Webpage</a></td>
-    <td><a href="https://github.com/VasylZinchenko/find-a-coach" target="_blank">Webpage</a></td>
+    <td><a href="https://github.com/vasyl-zinchenko/inventory/" target="_blank">Webpage</a></td>
+    <td><a href="https://github.com/vasyl-zinchenko/find-a-coach" target="_blank">Webpage</a></td>
   </tr>
 
   <tr>
@@ -126,11 +126,11 @@
       - CSS3<br>
   </tr>
   <tr>
-    <td> <a href="https://vasylzinchenko.github.io/SaveTheOcean/" target="_blank">DEMO LINK</a><br></td>
+    <td> <a href="https://vasyl-zinchenko.github.io/SaveTheOcean/" target="_blank">DEMO LINK</a><br></td>
     <td><a href="https://fe-jul22-team-8.github.io/product-catalog/#/phones?page=1&perPage=8" target="_blank">DEMO LINK</a><br></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/VasylZinchenko/SaveTheOcean/" target="_blank">Webpage</a></td>
+    <td><a href="https://github.com/vasyl-zinchenko/SaveTheOcean/" target="_blank">Webpage</a></td>
     <td><a href="https://github.com/fe-jul22-team-8/product-catalog/" target="_blank">Webpage</a></td>
   </tr>
 
@@ -170,12 +170,12 @@
     </td>
   </tr>
   <tr>
-    <td> <a href="https://vasylzinchenko.github.io/Kick-starter/" target="_blank">DEMO LINK</a><br></td>
+    <td> <a href="https://vasyl-zinchenko.github.io/Kick-starter/" target="_blank">DEMO LINK</a><br></td>
     <td><a href="https://vue-http-demo-c46ab.web.app/coaches/" target="_blank">DEMO LINK</a><br></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/VasylZinchenko/Kick-starter" target="_blank">Webpage</a></td>
-    <td><a href="https://github.com/VasylZinchenko/Guess-a-number" target="_blank">Webpage</a></td>
+    <td><a href="https://github.com/vasyl-zinchenko/Kick-starter" target="_blank">Webpage</a></td>
+    <td><a href="https://github.com/vasyl-zinchenko/Guess-a-number" target="_blank">Webpage</a></td>
   </tr>
 
 
@@ -212,11 +212,11 @@
     <td></td>
   </tr>
   <tr>
-    <td> <a href="https://vasylzinchenko.github.io/layout_miami/" target="_blank">DEMO LINK</a><br></td>
+    <td> <a href="https://vasyl-zinchenko.github.io/layout_miami/" target="_blank">DEMO LINK</a><br></td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/VasylZinchenko/layout_miami" target="_blank">Webpage</a></td>
+    <td><a href="https://github.com/vasyl-zinchenko/layout_miami" target="_blank">Webpage</a></td>
     <td></td>
   </tr>
 

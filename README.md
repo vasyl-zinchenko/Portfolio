@@ -3,6 +3,55 @@
 <table>
   <tr>
     <th width="50%"><strong>
+        <h2>🚀 Book catalog</h2>
+      </strong></th>
+    <th width="50%"> <strong>
+        <h2>🚀 Posts demo</h2>
+      </strong></th>
+  </tr>
+  <tr>
+    <td>Here you can: <br>
+      - filter and sort books<br>
+      - add to cart the book<br>
+      - complete the purchase<br>
+    </td>
+    <td>Here you can: <br>
+      - edit and delete your own post<br>
+      - filter and sort posts<br>
+      - write a comment<br>
+    </td>
+  </tr>
+  <tr>
+    <td> <img width="400" height="400" src="https://img001.prntscr.com/file/img001/JcGo3PdVQuWfWWVCTf7pAQ.png"></td>
+    <td><img width="400" height="400" src="https://img001.prntscr.com/file/img001/DzJ00op2SUGGYSPEzYNwXA.png" alt="fruit-catalog-jpg"></td>
+  </tr>
+  <tr>
+    <td> <strong>Features:</strong><br>
+      - React<br>
+      - useContext<br>
+      - Router<br>
+      - Type script<br></td>
+    <td><strong>Features:</strong><br>
+      - Vue 3, Composition API<br>
+      - Pinia<br>
+      - Type script<br></td>
+  </tr>
+  <tr>
+    <td> <a href="https://vasyl-zinchenko.github.io/book-catalog/#/books" target="_blank">DEMO LINK</a><br></td>
+    <td><a href="https://beautiful-halva-25abf9.netlify.app" target="_blank">DEMO LINK</a><br></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/vasyl-zinchenko/book-catalog" target="_blank">Webpage</a></td>
+    <td><a href="https://github.com/vasyl-zinchenko/posts-demo" target="_blank">Webpage</a></td>
+  </tr>
+
+  <tr>
+    <td><br><br></td>
+    <td><br><br></td>
+  </tr>
+<!---->  
+  <tr>
+    <th width="50%"><strong>
         <h2>🚀 Nutrition analysis</h2>
       </strong></th>
     <th width="50%"> <strong>

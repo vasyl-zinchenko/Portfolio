@@ -183,11 +183,98 @@
     <td><a href="https://github.com/fe-jul22-team-8/product-catalog/" target="_blank">Webpage</a></td>
   </tr>
 
+  <!---->
+  <tr>
+    <th width="50%"><strong>
+        <h2>🚀 Todo app</h2>
+      </strong></th>
+    <th width="50%"> <strong>
+        <h2>🚀 Image carousel</h2>
+      </strong></th>
+  </tr>
+  <tr>
+    <td>Here you can: <br>
+      - Add a new task<br>
+      - Edit the task<br>
+      - Update the task<br>
+      - Delete the task<br>
+    </td>
+    <td>Here you can: <br>
+      - List of images with "prev" and "next" buttons for infinite scrolling<br>
+      - Select images<br>
+    </td>
+  </tr>
+  <tr>
+    <td> <img width="400" height="400" src="https://img001.prntscr.com/file/img001/VeI87ccLS_Cb38aEP2BTHQ.png"></td>
+    <td><img width="400" height="400" src="https://img001.prntscr.com/file/img001/z7Hb3q9KSSeuZrzvs2S9Sg.png"></td>
+  </tr>
+  <tr>
+    <td> <strong>Features:</strong><br>
+      - Vue 3, Composition API<br>
+      - Pinia<br>
+      - Type script<br></td>
+    <td><strong>Features:</strong><br>
+      - Vue 3, Composition API<br>
+      - Type script<br></td>
+  </tr>
+  <tr>
+    <td> <a href="https://vasyl-zinchenko.github.io/e-chat_todo-app/" target="_blank">DEMO LINK</a><br></td>
+    <td><a href="https://ornate-custard-d7903c.netlify.app/" target="_blank">DEMO LINK</a><br></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/vasyl-zinchenko/e-chat_todo-app" target="_blank">Webpage</a></td>
+    <td><a href="https://github.com/vasyl-zinchenko/image_carousel_vue" target="_blank">Webpage</a></td>
+  </tr>
+
   <tr>
     <td><br><br></td>
     <td><br><br></td>
   </tr>
+<!---->  
 
+  <!---TES-->
+  <tr>
+    <th width="50%"><strong>
+        <h2>🚀 Adaptive Landing Page "Project home"</h2>
+      </strong></th>
+    <th width="50%"> <strong>
+        <h2>🚀 Adaptive Landing Page "Cleaning"</h2>
+      </strong></th>
+  </tr>
+  <tr>
+    <td>Implement landing page according to <a href="https://www.figma.com/file/5vTTdJqDacemvzcNYSWsQt/TEST?node-id=0%3A20&mode=dev" target="_blank">Figma design</a></td>
+    <td>Implement landing page according to <a href="https://www.figma.com/file/B6Yc5byh0JHFBwOzP3ZIro/Test-task-with-animation-%7C-redlab-2023?node-id=2887%3A43018&mode=dev" target="_blank">Figma design</a></td>
+  </tr>
+  <tr>
+    <td> <img width="400" height="400" src="https://i.ibb.co/Z1SR7Bd/screencapture-localhost-5173-2023-08-04-14-42-55.png"></td>
+    <td><img width="400" height="400" src="https://github.com/vasyl-zinchenko/pryberemo/blob/main/src/assets/redlab.jpg?raw=true"></td>
+  </tr>
+  <tr>
+    <td> <strong>Technologies used:<br> </strong>
+      - Vue 3 Composition API<br>
+      - Vite<br>
+      - SCSS<br>
+    </td>
+    <td> <strong>Technologies used:<br> </strong>
+      - Vue 3 Composition API<br>
+      - Vite<br>
+      - SCSS<br>
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://subtle-centaur-b9c6ad.netlify.app//" target="_blank">DEMO LINK</a><br></td>
+    <td><a href="https://main--jazzy-pudding-763d76.netlify.app" target="_blank">DEMO LINK</a><br></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/vasyl-zinchenko/project-home-landing" target="_blank">Webpage</a></td>
+    <td><a href="https://github.com/vasyl-zinchenko/pryberemo" target="_blank">Webpage</a></td>
+  </tr>
+  <tr>
+    <td><br><br></td>
+    <td><br><br></td>
+  </tr>
+<!---->  
+  
   <tr>
     <th width="50%"><strong>
         <h2>🚀 Adaptive Landing Page Kickstarter</h2>

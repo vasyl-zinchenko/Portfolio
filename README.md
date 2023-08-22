@@ -205,7 +205,7 @@
     </td>
   </tr>
   <tr>
-    <td> <img width="400" height="400" src="https://img001.prntscr.com/file/img001/VeI87ccLS_Cb38aEP2BTHQ.png"></td>
+    <td> <img width="400" height="400" src="https://img001.prntscr.com/file/img001/Njbyz7CPTQ-iciBbxeepTA.png"></td>
     <td><img width="400" height="400" src="https://img001.prntscr.com/file/img001/z7Hb3q9KSSeuZrzvs2S9Sg.png"></td>
   </tr>
   <tr>
@@ -246,8 +246,8 @@
     <td>Implement landing page according to <a href="https://www.figma.com/file/B6Yc5byh0JHFBwOzP3ZIro/Test-task-with-animation-%7C-redlab-2023?node-id=2887%3A43018&mode=dev" target="_blank">Figma design</a></td>
   </tr>
   <tr>
-    <td> <img width="400" height="400" src="https://i.ibb.co/Z1SR7Bd/screencapture-localhost-5173-2023-08-04-14-42-55.png"></td>
-    <td><img width="400" height="400" src="https://github.com/vasyl-zinchenko/pryberemo/blob/main/src/assets/redlab.jpg?raw=true"></td>
+    <td> <img width="400" height="400" src="https://img001.prntscr.com/file/img001/XF-i5Lx4Qm2xeOHNgkuPeA.png"></td>
+    <td><img width="400" height="400" src="https://img001.prntscr.com/file/img001/RzYBI01kQV6Gg5NQI2bQgQ.png"></td>
   </tr>
   <tr>
     <td> <strong>Technologies used:<br> </strong>

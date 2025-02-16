@@ -1,6 +1,50 @@
 <h1>Portfolio</h1>
 
 <table>
+    <tr>
+    <th width="50%"><strong>
+        <h2>🚀 Shopiverse</h2>
+      </strong></th>
+    <th width="50%"> <strong>
+        <h2></h2>
+      </strong></th>
+  </tr>
+  <tr>
+    <td>Here you can: <br>
+      - log in<br>
+      - view product cards<br>
+      - add your own product after logging in<br>
+      - purchase a product<br>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td> <img width="400" height="400" src="https://img001.prntscr.com/file/img001/BrQlEb8FQnePaluLB4eVNw.png"></td>
+  </tr>
+  <tr>
+    <td> <strong>Features:</strong><br>
+      - Nuxt 3<br>
+      - Flowbite<br>
+      - Supabase<br>
+      - Prisma<br>
+      - Stripe<br></td>
+    <td><strong></strong><br>
+  </tr>
+  <tr>
+    <td> <a href="https://shopiverse-nuxt.netlify.app/" target="_blank">DEMO LINK</a><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/vasyl-zinchenko/shopiverse" target="_blank">Webpage</a></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td><br><br></td>
+    <td><br><br></td>
+  </tr>
+<!---->
   <tr>
     <th width="50%"><strong>
         <h2>🚀 Book catalog</h2>

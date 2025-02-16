@@ -351,7 +351,7 @@
   </tr>
   <tr>
     <td> <a href="https://vasyl-zinchenko.github.io/Kick-starter/" target="_blank">DEMO LINK</a><br></td>
-    <td><a href="https://vue-http-demo-c46ab.web.app/coaches/" target="_blank">DEMO LINK</a><br></td>
+    <td><a href="https://vasyl-zinchenko.github.io/Guess-a-number/index.html" target="_blank">DEMO LINK</a><br></td>
   </tr>
   <tr>
     <td><a href="https://github.com/vasyl-zinchenko/Kick-starter" target="_blank">Webpage</a></td>

@@ -6,7 +6,7 @@
         <h2>🚀 Shopiverse</h2>
       </strong></th>
     <th width="50%"> <strong>
-        <h2></h2>
+        <h2>🚀 Task board (Drag & drop)</h2>
       </strong></th>
   </tr>
   <tr>
@@ -16,11 +16,16 @@
       - add your own product after logging in<br>
       - purchase a product<br>
     </td>
-    <td>
+    <td>Here you can: <br>
+      - add tasks<br>
+      - edit tasks<br>
+      - delete tasks<br>
+      - drag&drop tasks<br>
     </td>
   </tr>
   <tr>
     <td> <img width="400" height="400" src="https://img001.prntscr.com/file/img001/BrQlEb8FQnePaluLB4eVNw.png"></td>
+      <td><img width="400" height="400" src="https://img001.prntscr.com/file/img001/GFyT7GEySUyivix999Q9aA.png" alt="fruit-catalog-jpg"></td>
   </tr>
   <tr>
     <td> <strong>Features:</strong><br>
@@ -29,15 +34,17 @@
       - Supabase<br>
       - Prisma<br>
       - Stripe<br></td>
-    <td><strong></strong><br>
-  </tr>
+    <td> <strong>Features:</strong><br>
+      - Nuxt 3<br>
+      - Tailwind<br>
+      - Pinia<br></td>
   <tr>
     <td> <a href="https://shopiverse-nuxt.netlify.app/" target="_blank">DEMO LINK</a><br></td>
-    <td><br></td>
+    <td><a href="https://nuxt-task-board.vercel.app/" target="_blank">DEMO LINK</a><br></td>
   </tr>
   <tr>
     <td><a href="https://github.com/vasyl-zinchenko/shopiverse" target="_blank">Webpage</a></td>
-    <td></td>
+    <td><a href="https://github.com/vasyl-zinchenko/nuxt-task-board" target="_blank">Webpage</a></td>
   </tr>
 
   <tr>

@@ -1,410 +1,389 @@
-<h1>Portfolio</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vasyl+Zinchenko;Frontend+Developer;Vue+%7C+Nuxt+%7C+React" alt="Typing SVG" />
+</h1>
+
+## 🚀 Featured Projects
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <table>
-    <tr>
-    <th width="50%"><strong>
-        <h2>🚀 Shopiverse</h2>
-      </strong></th>
-    <th width="50%"> <strong>
-        <h2>🚀 Task board (Drag & drop)</h2>
-      </strong></th>
-  </tr>
-  <tr>
-    <td>Here you can: <br>
-      - log in<br>
-      - view product cards<br>
-      - add your own product after logging in<br>
-      - purchase a product<br>
-    </td>
-    <td>Here you can: <br>
-      - add tasks<br>
-      - edit tasks<br>
-      - delete tasks<br>
-      - drag&drop tasks<br>
-    </td>
-  </tr>
-  <tr>
-    <td> <img width="400" height="400" src="https://img001.prntscr.com/file/img001/BrQlEb8FQnePaluLB4eVNw.png"></td>
-      <td><img width="400" height="400" src="https://img001.prntscr.com/file/img001/GFyT7GEySUyivix999Q9aA.png" alt="fruit-catalog-jpg"></td>
-  </tr>
-  <tr>
-    <td> <strong>Features:</strong><br>
-      - Nuxt 3<br>
-      - Flowbite<br>
-      - Supabase<br>
-      - Prisma<br>
-      - Stripe<br></td>
-    <td> <strong>Features:</strong><br>
-      - Nuxt 3<br>
-      - Tailwind<br>
-      - Pinia<br></td>
-  <tr>
-    <td> <a href="https://shopiverse-nuxt.netlify.app/" target="_blank">DEMO LINK</a><br></td>
-    <td><a href="https://nuxt-task-board.vercel.app/" target="_blank">DEMO LINK</a><br></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/vasyl-zinchenko/shopiverse" target="_blank">Webpage</a></td>
-    <td><a href="https://github.com/vasyl-zinchenko/nuxt-task-board" target="_blank">Webpage</a></td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
 
-  <tr>
-    <td><br><br></td>
-    <td><br><br></td>
-  </tr>
-<!---->
-  <tr>
-    <th width="50%"><strong>
-        <h2>🚀 Book catalog</h2>
-      </strong></th>
-    <th width="50%"> <strong>
-        <h2>🚀 Posts demo</h2>
-      </strong></th>
-  </tr>
-  <tr>
-    <td>Here you can: <br>
-      - filter and sort books<br>
-      - add to cart the book<br>
-      - complete the purchase<br>
-    </td>
-    <td>Here you can: <br>
-      - edit and delete your own post<br>
-      - filter and sort posts<br>
-      - write a comment<br>
-    </td>
-  </tr>
-  <tr>
-    <td> <img width="400" height="400" src="https://img001.prntscr.com/file/img001/JcGo3PdVQuWfWWVCTf7pAQ.png"></td>
-    <td><img width="400" height="400" src="https://img001.prntscr.com/file/img001/DzJ00op2SUGGYSPEzYNwXA.png" alt="fruit-catalog-jpg"></td>
-  </tr>
-  <tr>
-    <td> <strong>Features:</strong><br>
-      - React<br>
-      - useContext<br>
-      - Router<br>
-      - Type script<br></td>
-    <td><strong>Features:</strong><br>
-      - Vue 3, Composition API<br>
-      - Pinia<br>
-      - Type script<br></td>
-  </tr>
-  <tr>
-    <td> <a href="https://vasyl-zinchenko.github.io/book-catalog/#/books" target="_blank">DEMO LINK</a><br></td>
-    <td><a href="https://beautiful-halva-25abf9.netlify.app" target="_blank">DEMO LINK</a><br></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/vasyl-zinchenko/book-catalog" target="_blank">Webpage</a></td>
-    <td><a href="https://github.com/vasyl-zinchenko/posts-demo" target="_blank">Webpage</a></td>
-  </tr>
+### Shopiverse
 
-  <tr>
-    <td><br><br></td>
-    <td><br><br></td>
-  </tr>
-<!---->  
-  <tr>
-    <th width="50%"><strong>
-        <h2>🚀 Nutrition analysis</h2>
-      </strong></th>
-    <th width="50%"> <strong>
-        <h2>🚀 Fruit catalog</h2>
-      </strong></th>
-  </tr>
-  <tr>
-    <td>Here you can research the calorie content and the list of nutrients contained in the products to analyze dishes<br></td>
-    <td>Here you can: <br>
-      - add products to your favorite<br>
-      - add products to compare<br>
-      - add all products to compare the list<br>
-      - open a detailed card<br>
-      - switch theme<br>
-      - switch language ua/en<br>
-      - use the "family" filter<br>
-      - sort fruits on the compare page</td>
-  </tr>
-  <tr>
-    <td> <img width="400" height="400" src="https://i.ibb.co/LCgPPcL/analysis-nutrition.png"></td>
-    <td><img width="400" height="400" src="https://i.ibb.co/cb6DYHf/fruit-catalog-jpg.png" alt="fruit-catalog-jpg"></td>
-  </tr>
-  <tr>
-    <td> <strong>Features:</strong><br>
-      - Vue 3, Composition API, vue-i18n<br>
-      - Pinia<br>
-      - Type script<br></td>
-    <td><strong>Features:</strong><br>
-      - Vue 3, Composition API, vue-i18n<br>
-      - Pinia<br>
-      - Type script<br></td>
-  </tr>
-  <tr>
-    <td> <a href="https://glistening-florentine-5f0a86.netlify.app/" target="_blank">DEMO LINK</a><br></td>
-    <td><a href="https://hilarious-eclair-32f1e3.netlify.app" target="_blank">DEMO LINK</a><br></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/vasyl-zinchenko/nutrition-analysis/" target="_blank">Webpage</a></td>
-    <td><a href="https://github.com/vasyl-zinchenko/fruit-catalog" target="_blank">Webpage</a></td>
-  </tr>
+<img src="https://img.shields.io/badge/2024-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-orange?style=flat-square" />
 
-  <tr>
-    <td><br><br></td>
-    <td><br><br></td>
-  </tr>
+<img src="./assets/screenshots/shopiverse.jpg" width="100%" alt="Shopiverse" />
 
-  <tr>
-    <th width="50%"><strong>
-        <h2>🚀 Inventory demo-app</h2>
-      </strong></th>
-    <th width="50%"> <strong>
-        <h2>🚀 Find a coach</h2>
-      </strong></th>
-  </tr>
-  <tr>
-    <td>Here you can create an order, as well as products for it. To demonstrate, I created the data and some categories with a corresponding image</td>
-    <td>Here you can: <br>
-      - Login to register as a coach<br>
-      - Send a message to the coach<br>
-      - Find the coach<br>
-      - View requests
-    </td>
-  </tr>
-  <tr>
-    <td> <img width="400" height="400" src="https://i.ibb.co/kQfLDPX/inventory.jpg"></td>
-    <td><img width="400" height="400" src="https://i.ibb.co/y87kkrJ/Screenshot-1.png"></td>
-  </tr>
-  <tr>
-    <td> <strong>Features:</strong><br>
-      - Vue 3, Composition API<br>
-      - Pinia<br>
-      - Express.js<br>
-      - PostgreSQL</td>
-    <td><strong>Features:</strong><br>
-      - Vue 3, Composition API<br>
-      - Pinia<br>
-      - Firebase</td>
-  </tr>
-  <tr>
-    <td> <a href="https://vasyl-zinchenko.github.io/inventory/" target="_blank">DEMO LINK</a><br></td>
-    <td><a href="https://vue-http-demo-c46ab.web.app/coaches/" target="_blank">DEMO LINK</a><br></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/vasyl-zinchenko/inventory/" target="_blank">Webpage</a></td>
-    <td><a href="https://github.com/vasyl-zinchenko/find-a-coach" target="_blank">Webpage</a></td>
-  </tr>
+**E-commerce platform with authentication, product management, and payment processing.**
 
-  <tr>
-    <td><br><br></td>
-    <td><br><br></td>
-  </tr>
+<img src="https://img.shields.io/badge/Nuxt_3-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Flowbite-1A56DB?style=flat-square&logo=flowbite&logoColor=white" />
 
-  <tr>
-    <th width="50%"><strong>
-        <h2>🚀 Adaptive Landing Page Save The Ocean
-        </h2>
-      </strong></th>
-    <th width="50%"> <strong>
-        <h2>🚀 Phone catalog</h2>
-      </strong></th>
-  </tr>
-  <tr>
-    <td>Implement landing page according to <a href="https://vue-http-demo-c46ab.web.app/coaches/" target="_blank">Figma design</a></td>
-    <td>Implement project according to <a href="https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original?node-id=0-1" target="_blank">Figma design</a></td>
-  </tr>
-  <tr>
-    <td> <img width="400" height="400" src="https://i.ibb.co/tBkzmRM/ocean.jpg"></td>
-    <td><img width="400" height="400" src="https://i.ibb.co/ynPTdP9/phone.jpg"></td>
-  </tr>
-  <tr>
-    <td> <strong>Technologies used:<br> </strong>
-      - HTML<br>
-      - SCSS<br>
-      - JS<br>
-    </td>
-    <td><strong>Features:</strong><br>
-      - React.js<br>
-      - Node.js<br>
-      - TypeScript<br>
-      - HTML5<br>
-      - CSS3<br>
-  </tr>
-  <tr>
-    <td> <a href="https://vasyl-zinchenko.github.io/SaveTheOcean/" target="_blank">DEMO LINK</a><br></td>
-    <td><a href="https://fe-jul22-team-8.github.io/product-catalog/#/phones?page=1&perPage=8" target="_blank">DEMO LINK</a><br></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/vasyl-zinchenko/SaveTheOcean/" target="_blank">Webpage</a></td>
-    <td><a href="https://github.com/fe-jul22-team-8/product-catalog/" target="_blank">Webpage</a></td>
-  </tr>
+<br>
 
-  <!---->
-  <tr>
-    <th width="50%"><strong>
-        <h2>🚀 Todo app</h2>
-      </strong></th>
-    <th width="50%"> <strong>
-        <h2>🚀 Image carousel</h2>
-      </strong></th>
-  </tr>
-  <tr>
-    <td>Here you can: <br>
-      - Add a new task<br>
-      - Edit the task<br>
-      - Update the task<br>
-      - Delete the task<br>
-    </td>
-    <td>Here you can: <br>
-      - List of images with "prev" and "next" buttons for infinite scrolling<br>
-      - Select images<br>
-    </td>
-  </tr>
-  <tr>
-    <td> <img width="400" height="400" src="https://img001.prntscr.com/file/img001/Njbyz7CPTQ-iciBbxeepTA.png"></td>
-    <td><img width="400" height="400" src="https://img001.prntscr.com/file/img001/z7Hb3q9KSSeuZrzvs2S9Sg.png"></td>
-  </tr>
-  <tr>
-    <td> <strong>Features:</strong><br>
-      - Vue 3, Composition API<br>
-      - Pinia<br>
-      - Type script<br></td>
-    <td><strong>Features:</strong><br>
-      - Vue 3, Composition API<br>
-      - Type script<br></td>
-  </tr>
-  <tr>
-    <td> <a href="https://vasyl-zinchenko.github.io/e-chat_todo-app/" target="_blank">DEMO LINK</a><br></td>
-    <td><a href="https://ornate-custard-d7903c.netlify.app/" target="_blank">DEMO LINK</a><br></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/vasyl-zinchenko/e-chat_todo-app" target="_blank">Webpage</a></td>
-    <td><a href="https://github.com/vasyl-zinchenko/image_carousel_vue" target="_blank">Webpage</a></td>
-  </tr>
+<a href="https://shopiverse-nuxt.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/shopiverse" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
 
-  <tr>
-    <td><br><br></td>
-    <td><br><br></td>
-  </tr>
-<!---->  
+</td>
+<td width="50%" valign="top">
 
-  <!---TES-->
-  <tr>
-    <th width="50%"><strong>
-        <h2>🚀 Adaptive Landing Page "Project home"</h2>
-      </strong></th>
-    <th width="50%"> <strong>
-        <h2>🚀 Adaptive Landing Page "Cleaning"</h2>
-      </strong></th>
-  </tr>
-  <tr>
-    <td>Implement landing page according to <a href="https://www.figma.com/file/5vTTdJqDacemvzcNYSWsQt/TEST?node-id=0%3A20&mode=dev" target="_blank">Figma design</a></td>
-    <td>Implement landing page according to <a href="https://www.figma.com/file/B6Yc5byh0JHFBwOzP3ZIro/Test-task-with-animation-%7C-redlab-2023?node-id=2887%3A43018&mode=dev" target="_blank">Figma design</a></td>
-  </tr>
-  <tr>
-    <td> <img width="400" height="400" src="https://img001.prntscr.com/file/img001/XF-i5Lx4Qm2xeOHNgkuPeA.png"></td>
-    <td><img width="400" height="400" src="https://img001.prntscr.com/file/img001/RzYBI01kQV6Gg5NQI2bQgQ.png"></td>
-  </tr>
-  <tr>
-    <td> <strong>Technologies used:<br> </strong>
-      - Vue 3 Composition API<br>
-      - Vite<br>
-      - SCSS<br>
-    </td>
-    <td> <strong>Technologies used:<br> </strong>
-      - Vue 3 Composition API<br>
-      - Vite<br>
-      - SCSS<br>
-    </td>
-  </tr>
-  <tr>
-    <td> <a href="https://subtle-centaur-b9c6ad.netlify.app//" target="_blank">DEMO LINK</a><br></td>
-    <td><a href="https://main--jazzy-pudding-763d76.netlify.app" target="_blank">DEMO LINK</a><br></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/vasyl-zinchenko/project-home-landing" target="_blank">Webpage</a></td>
-    <td><a href="https://github.com/vasyl-zinchenko/pryberemo" target="_blank">Webpage</a></td>
-  </tr>
-  <tr>
-    <td><br><br></td>
-    <td><br><br></td>
-  </tr>
-<!---->  
-  
-  <tr>
-    <th width="50%"><strong>
-        <h2>🚀 Adaptive Landing Page Kickstarter</h2>
-      </strong></th>
-    <th width="50%"> <strong>
-        <h2>🚀 Guess a number</h2>
-      </strong></th>
-  </tr>
-  <tr>
-    <td>Implement landing page according to <a href="https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/%E2%84%9611-(kickstarter)?node-id=19655%3A33" target="_blank">Figma design</a></td>
-    <td>You should guess a number between 1 and 20</td>
-  </tr>
-  <tr>
-    <td> <img width="400" height="400" src="https://i.ibb.co/275SJT7/kickstarter.jpg"></td>
-    <td><img width="400" height="400" src="https://i.ibb.co/tPbBq2M/Screenshot-1.jpg"></td>
-  </tr>
-  <tr>
-    <td> <strong>Technologies used:<br> </strong>
-      - HTML<br>
-      - SCSS<br>
-      - Flexbox, grid<br>
-      - BEM<br>
-      - JS<br>
-    </td>
-    <td> <strong>Technologies used:<br> </strong>
-      - HTML<br>
-      - SCSS<br>
-      - JS<br>
-    </td>
-  </tr>
-  <tr>
-    <td> <a href="https://vasyl-zinchenko.github.io/Kick-starter/" target="_blank">DEMO LINK</a><br></td>
-    <td><a href="https://vasyl-zinchenko.github.io/Guess-a-number/index.html" target="_blank">DEMO LINK</a><br></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/vasyl-zinchenko/Kick-starter" target="_blank">Webpage</a></td>
-    <td><a href="https://github.com/vasyl-zinchenko/Guess-a-number" target="_blank">Webpage</a></td>
-  </tr>
+### Task Board (Drag & Drop)
 
+<img src="https://img.shields.io/badge/2024-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Frontend-blue?style=flat-square" />
 
-  <tr>
-    <td><br><br></td>
-    <td><br><br></td>
-  </tr>
+<img src="./assets/screenshots/task-board.jpg" width="100%" alt="Task Board" />
 
+**Kanban-style task management with drag & drop functionality.**
 
-  <tr>
-    <th width="50%"><strong>
-        <h2>🚀 Adaptive Landing Page MyBike</h2>
-      </strong></th>
-    <th width="50%"> <strong>
-        <h2></h2>
-      </strong></th>
-  </tr>
-  <tr>
-    <td>Implement landing page according to <a href="https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE?node-id=0%3A1" target="_blank">Figma design</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td> <img width="400" height="400" src="https://i.ibb.co/PMN6Cw4/layout-miami.jpg"></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td> <strong>Technologies used:<br> </strong>
-      - HTML<br>
-      - SCSS<br>
-      - Flexbox, grid<br>
-      - BEM<br>
-      - JS<br>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td> <a href="https://vasyl-zinchenko.github.io/layout_miami/" target="_blank">DEMO LINK</a><br></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/vasyl-zinchenko/layout_miami" target="_blank">Webpage</a></td>
-    <td></td>
-  </tr>
+<img src="https://img.shields.io/badge/Nuxt_3-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinia-yellow?style=flat-square&logo=vue.js&logoColor=white" />
 
+<br>
+
+<a href="https://nuxt-task-board.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/nuxt-task-board" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Inventory Demo App
+
+<img src="https://img.shields.io/badge/2023-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-orange?style=flat-square" />
+
+<img src="./assets/screenshots/inventory.jpg" width="100%" alt="Inventory Demo" />
+
+**Order and product management system with category organization.**
+
+<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinia-yellow?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+
+<br>
+
+<a href="https://vasyl-zinchenko.github.io/inventory/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/inventory/" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Nutrition Analysis
+
+<img src="https://img.shields.io/badge/2023-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Frontend-blue?style=flat-square" />
+
+<img src="./assets/screenshots/nutrition-analysis.jpg" width="100%" alt="Nutrition Analysis" />
+
+**Research calorie content and nutrient breakdown for dishes.**
+
+<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinia-yellow?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/i18n-26A69A?style=flat-square" />
+
+<br>
+
+<a href="https://glistening-florentine-5f0a86.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/nutrition-analysis/" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Fruit Catalog
+
+<img src="https://img.shields.io/badge/2023-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Frontend-blue?style=flat-square" />
+
+<img src="./assets/screenshots/fruit-catalog.jpg" width="100%" alt="Fruit Catalog" />
+
+**Product catalog with favorites, comparison, themes, and i18n support.**
+
+<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinia-yellow?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/i18n-26A69A?style=flat-square" />
+
+<br>
+
+<a href="https://hilarious-eclair-32f1e3.netlify.app" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/fruit-catalog" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Posts Demo
+
+<img src="https://img.shields.io/badge/2023-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Frontend-blue?style=flat-square" />
+
+<img src="./assets/screenshots/posts-demo.jpg" width="100%" alt="Posts Demo" />
+
+**Blog platform with CRUD operations, filtering, sorting, and comments.**
+
+<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinia-yellow?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+
+<br>
+
+<a href="https://beautiful-halva-25abf9.netlify.app" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/posts-demo" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Todo App
+
+<img src="https://img.shields.io/badge/2023-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Frontend-blue?style=flat-square" />
+
+<img src="./assets/screenshots/todo-app.jpg" width="100%" alt="Todo App" />
+
+**Task management app with full CRUD functionality.**
+
+<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinia-yellow?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+
+<br>
+
+<a href="https://vasyl-zinchenko.github.io/e-chat_todo-app/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/e-chat_todo-app" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Image Carousel
+
+<img src="https://img.shields.io/badge/2023-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Frontend-blue?style=flat-square" />
+
+<img src="./assets/screenshots/image-carousel.jpg" width="100%" alt="Image Carousel" />
+
+**Infinite scrolling image gallery with selection feature.**
+
+<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+
+<br>
+
+<a href="https://ornate-custard-d7903c.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/image_carousel_vue" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Landing "Cleaning"
+
+<img src="https://img.shields.io/badge/2023-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Landing-purple?style=flat-square" />
+
+<img src="./assets/screenshots/cleaning.jpg" width="100%" alt="Cleaning Landing" />
+
+**Animated cleaning service landing with modern design.**
+
+<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+
+<br>
+
+<a href="https://main--jazzy-pudding-763d76.netlify.app" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/pryberemo" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Guess a Number
+
+<img src="https://img.shields.io/badge/2021-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Game-red?style=flat-square" />
+
+<img src="./assets/screenshots/guess-a-number.jpg" width="100%" alt="Guess a Number" />
+
+**Interactive number guessing game (1-20).**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+<br>
+
+<a href="https://vasyl-zinchenko.github.io/Guess-a-number/index.html" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/Guess-a-number" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 📚 Other Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Book Catalog
+
+<img src="https://img.shields.io/badge/2022-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Frontend-blue?style=flat-square" />
+
+<img src="./assets/screenshots/book-catalog.jpg" width="100%" alt="Book Catalog" />
+
+**Book store with filtering, sorting, and shopping cart.**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+
+<br>
+
+<a href="https://vasyl-zinchenko.github.io/book-catalog/#/books" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/book-catalog" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Find a Coach
+
+<img src="https://img.shields.io/badge/2022-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-orange?style=flat-square" />
+
+<img src="./assets/screenshots/find-a-coach.jpg" width="100%" alt="Find a Coach" />
+
+**Coach finder with auth, messaging, and request management.**
+
+<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinia-yellow?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+
+<br>
+
+<a href="https://vue-http-demo-c46ab.web.app/coaches/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/find-a-coach" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Phone Catalog
+
+<img src="https://img.shields.io/badge/2022-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-orange?style=flat-square" />
+
+<img src="./assets/screenshots/phone-catalog.jpg" width="100%" alt="Phone Catalog" />
+
+**Product catalog built with team collaboration.**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+
+<br>
+
+<a href="https://fe-jul22-team-8.github.io/product-catalog/#/phones?page=1&perPage=8" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/fe-jul22-team-8/product-catalog/" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Landing "Save The Ocean"
+
+<img src="https://img.shields.io/badge/2022-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Landing-purple?style=flat-square" />
+
+<img src="./assets/screenshots/save-the-ocean.jpg" width="100%" alt="Save The Ocean" />
+
+**Responsive landing page with smooth animations.**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+<br>
+
+<a href="https://vasyl-zinchenko.github.io/SaveTheOcean/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/SaveTheOcean/" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Landing "Kickstarter"
+
+<img src="https://img.shields.io/badge/2022-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Landing-purple?style=flat-square" />
+
+<img src="./assets/screenshots/kickstarter.jpg" width="100%" alt="Kickstarter" />
+
+**Pixel-perfect responsive landing from Figma.**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/BEM-000?style=flat-square" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+<br>
+
+<a href="https://vasyl-zinchenko.github.io/Kick-starter/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/Kick-starter" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Landing "MyBike"
+
+<img src="https://img.shields.io/badge/2022-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Landing-purple?style=flat-square" />
+
+<img src="./assets/screenshots/mybike.jpg" width="100%" alt="MyBike" />
+
+**Bike rental landing with grid layout.**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/BEM-000?style=flat-square" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+<br>
+
+<a href="https://vasyl-zinchenko.github.io/layout_miami/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/layout_miami" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+</tr>
 </table>

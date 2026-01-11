@@ -10,72 +10,24 @@
 <tr>
 <td width="50%" valign="top">
 
-### Shopiverse
+### Typing Speed Game
 
-<img src="https://img.shields.io/badge/2024-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/2025-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-orange?style=flat-square" /> <img src="https://img.shields.io/badge/Game-red?style=flat-square" />
 
-<img src="./assets/screenshots/shopiverse.jpg" width="100%" alt="Shopiverse" />
+<img src="./assets/screenshots/typing-speed-game.jpg" width="100%" alt="Typing Speed Game" />
 
-**E-commerce platform with authentication, product management, and payment processing.**
+**Real-time multiplayer typing speed game with competitive rooms.**
 
-<img src="https://img.shields.io/badge/Nuxt_3-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Flowbite-1A56DB?style=flat-square&logo=flowbite&logoColor=white" />
-
-<br>
-
-<a href="https://shopiverse-nuxt.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
-<a href="https://github.com/vasyl-zinchenko/shopiverse" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### Task Board (Drag & Drop)
-
-<img src="https://img.shields.io/badge/2024-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Frontend-blue?style=flat-square" />
-
-<img src="./assets/screenshots/task-board.jpg" width="100%" alt="Task Board" />
-
-**Kanban-style task management with drag & drop functionality.**
-
-<img src="https://img.shields.io/badge/Nuxt_3-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Pinia-yellow?style=flat-square&logo=vue.js&logoColor=white" />
-
-<br>
-
-<a href="https://nuxt-task-board.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
-<a href="https://github.com/vasyl-zinchenko/nuxt-task-board" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Inventory Demo App
-
-<img src="https://img.shields.io/badge/2023-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-orange?style=flat-square" />
-
-<img src="./assets/screenshots/inventory.jpg" width="100%" alt="Inventory Demo" />
-
-**Order and product management system with category organization.**
-
-<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Pinia-yellow?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 
 <br>
 
-<a href="https://vasyl-zinchenko.github.io/inventory/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
-<a href="https://github.com/vasyl-zinchenko/inventory/" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+<a href="https://typing-speed-game-8l90.onrender.com" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/typing-speed-game" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -108,6 +60,73 @@
 <tr>
 <td width="50%" valign="top">
 
+### Find a Coach
+
+<img src="https://img.shields.io/badge/2022-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-orange?style=flat-square" />
+
+<img src="./assets/screenshots/find-a-coach.jpg" width="100%" alt="Find a Coach" />
+
+**Coach finder with auth, messaging, and request management.**
+
+<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinia-yellow?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+
+<br>
+
+<a href="https://vue-http-demo-c46ab.web.app/coaches/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/find-a-coach" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Book Catalog
+
+<img src="https://img.shields.io/badge/2022-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Frontend-blue?style=flat-square" />
+
+<img src="./assets/screenshots/book-catalog.jpg" width="100%" alt="Book Catalog" />
+
+**Book store with filtering, sorting, and shopping cart.**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+
+<br>
+
+<a href="https://vasyl-zinchenko.github.io/book-catalog/#/books" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/book-catalog" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Task Board (Drag & Drop)
+
+<img src="https://img.shields.io/badge/2024-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Frontend-blue?style=flat-square" />
+
+<img src="./assets/screenshots/task-board.jpg" width="100%" alt="Task Board" />
+
+**Kanban-style task management with drag & drop functionality.**
+
+<img src="https://img.shields.io/badge/Nuxt_3-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinia-yellow?style=flat-square&logo=vue.js&logoColor=white" />
+
+<br>
+
+<a href="https://nuxt-task-board.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/nuxt-task-board" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+</td>
+<td width="50%" valign="top">
+
 ### Fruit Catalog
 
 <img src="https://img.shields.io/badge/2023-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Frontend-blue?style=flat-square" />
@@ -127,6 +146,13 @@
 <a href="https://github.com/vasyl-zinchenko/fruit-catalog" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
 
 </td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 ### Posts Demo
@@ -147,13 +173,6 @@
 <a href="https://github.com/vasyl-zinchenko/posts-demo" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
 
 </td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
 ### Todo App
@@ -174,6 +193,13 @@
 <a href="https://github.com/vasyl-zinchenko/e-chat_todo-app" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
 
 </td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 ### Image Carousel
@@ -191,33 +217,6 @@
 
 <a href="https://ornate-custard-d7903c.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
 <a href="https://github.com/vasyl-zinchenko/image_carousel_vue" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Landing "Cleaning"
-
-<img src="https://img.shields.io/badge/2023-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Landing-purple?style=flat-square" />
-
-<img src="./assets/screenshots/cleaning.jpg" width="100%" alt="Cleaning Landing" />
-
-**Animated cleaning service landing with modern design.**
-
-<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-
-<br>
-
-<a href="https://main--jazzy-pudding-763d76.netlify.app" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
-<a href="https://github.com/vasyl-zinchenko/pryberemo" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -251,73 +250,6 @@
 <tr>
 <td width="50%" valign="top">
 
-### Book Catalog
-
-<img src="https://img.shields.io/badge/2022-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Frontend-blue?style=flat-square" />
-
-<img src="./assets/screenshots/book-catalog.jpg" width="100%" alt="Book Catalog" />
-
-**Book store with filtering, sorting, and shopping cart.**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
-
-<br>
-
-<a href="https://vasyl-zinchenko.github.io/book-catalog/#/books" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
-<a href="https://github.com/vasyl-zinchenko/book-catalog" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### Find a Coach
-
-<img src="https://img.shields.io/badge/2022-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-orange?style=flat-square" />
-
-<img src="./assets/screenshots/find-a-coach.jpg" width="100%" alt="Find a Coach" />
-
-**Coach finder with auth, messaging, and request management.**
-
-<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Pinia-yellow?style=flat-square&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-
-<br>
-
-<a href="https://vue-http-demo-c46ab.web.app/coaches/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
-<a href="https://github.com/vasyl-zinchenko/find-a-coach" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Phone Catalog
-
-<img src="https://img.shields.io/badge/2022-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-orange?style=flat-square" />
-
-<img src="./assets/screenshots/phone-catalog.jpg" width="100%" alt="Phone Catalog" />
-
-**Product catalog built with team collaboration.**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-
-<br>
-
-<a href="https://fe-jul22-team-8.github.io/product-catalog/#/phones?page=1&perPage=8" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
-<a href="https://github.com/fe-jul22-team-8/product-catalog/" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
-
-</td>
-<td width="50%" valign="top">
-
 ### Landing "Save The Ocean"
 
 <img src="https://img.shields.io/badge/2022-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Landing-purple?style=flat-square" />
@@ -336,13 +268,6 @@
 <a href="https://github.com/vasyl-zinchenko/SaveTheOcean/" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
 
 </td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
 ### Landing "Kickstarter"
@@ -364,6 +289,13 @@
 <a href="https://github.com/vasyl-zinchenko/Kick-starter" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
 
 </td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 ### Landing "MyBike"
@@ -385,5 +317,87 @@
 <a href="https://github.com/vasyl-zinchenko/layout_miami" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
 
 </td>
+<td width="50%" valign="top">
+
+<!-- Empty cell for balanced layout -->
+
+</td>
 </tr>
 </table>
+
+<!--
+═══════════════════════════════════════════════════════════════════════════════
+COMMENTED OUT PROJECTS
+═══════════════════════════════════════════════════════════════════════════════
+
+### Shopiverse
+
+<img src="https://img.shields.io/badge/2024-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-orange?style=flat-square" />
+
+<img src="./assets/screenshots/shopiverse.jpg" width="100%" alt="Shopiverse" />
+
+**E-commerce platform with authentication, product management, and payment processing.**
+
+<img src="https://img.shields.io/badge/Nuxt_3-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Flowbite-1A56DB?style=flat-square&logo=flowbite&logoColor=white" />
+
+<a href="https://shopiverse-nuxt.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/shopiverse" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+═══════════════════════════════════════════════════════════════════════════════
+
+### Inventory Demo App
+
+<img src="https://img.shields.io/badge/2023-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-orange?style=flat-square" />
+
+<img src="./assets/screenshots/inventory.jpg" width="100%" alt="Inventory Demo" />
+
+**Order and product management system with category organization.**
+
+<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinia-yellow?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+
+<a href="https://vasyl-zinchenko.github.io/inventory/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/inventory/" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+═══════════════════════════════════════════════════════════════════════════════
+
+### Landing "Cleaning"
+
+<img src="https://img.shields.io/badge/2023-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Landing-purple?style=flat-square" />
+
+<img src="./assets/screenshots/cleaning.jpg" width="100%" alt="Cleaning Landing" />
+
+**Animated cleaning service landing with modern design.**
+
+<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+
+<a href="https://main--jazzy-pudding-763d76.netlify.app" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/vasyl-zinchenko/pryberemo" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+═══════════════════════════════════════════════════════════════════════════════
+
+### Phone Catalog
+
+<img src="https://img.shields.io/badge/2022-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Full--Stack-orange?style=flat-square" />
+
+<img src="./assets/screenshots/phone-catalog.jpg" width="100%" alt="Phone Catalog" />
+
+**Product catalog built with team collaboration.**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+
+<a href="https://fe-jul22-team-8.github.io/product-catalog/#/phones?page=1&perPage=8" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ea44f?style=flat" /></a>
+<a href="https://github.com/fe-jul22-team-8/product-catalog/" target="_blank"><img src="https://img.shields.io/badge/📦_Source_Code-181717?style=flat&logo=github" /></a>
+
+═══════════════════════════════════════════════════════════════════════════════
+-->
